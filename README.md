@@ -1,4 +1,4 @@
-Intermediate Deep Learning Final Projection by @rithums and @aLyonsGH
+Intermediate Deep Learning Final Projection by Rhythm Satav and Alex Lyons
 
 The Black-Scholes Equation is a differential equation that represents a call option
 pricing model. It computes call option prices by taking in the strike price, stock
